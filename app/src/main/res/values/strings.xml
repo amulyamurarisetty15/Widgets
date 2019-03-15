@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string-array name="arr">
+        <item>Rama</item>
+        <item>Sita</item>
+        <item>Arjun</item>
+        <item>Abhiram</item>
+        <item>Bhoomija</item>
+        <item>Pallavi</item>
+        <item>Lasya</item>
+    </string-array>
+</resources>
